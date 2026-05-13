@@ -1,0 +1,10 @@
+<resources>    <string name="app_name">Aplikasi Komik</string>
+    <string name="highlight">Sorotan Item</string>
+    <string name="plot_label">Alur: </string>
+    <string name="btn_browser">Telusuri</string>
+    <string name="btn_detail">Detail</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="indonesian">Bahasa Indonesia</string>
+    <string name="english">Bahasa Inggris</string>
+    <string name="back">Kembali</string>
+</resources>

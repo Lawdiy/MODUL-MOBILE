@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Comic App</string>
+    <string name="highlight">Item Highlight</string>
+    <string name="plot_label">Plot: </string>
+    <string name="btn_browser">Browser</string>
+    <string name="btn_detail">Detail</string>
+    <string name="change_language">Change Language</string>
+    <string name="indonesian">Indonesian</string>
+    <string name="english">English</string>
+    <string name="back">Back</string>
+</resources>
